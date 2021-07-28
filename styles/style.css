@@ -2,10 +2,16 @@
 body{
     font-family: 'Bebas Neue', cursive;
 }
+.nike-menu-border{
+    border-bottom: 2px solid white;
+}
+.nike-menu-border:hover{
+    border-bottom: 2px solid red;
+}
 .nike-bg-gray{
     background-color: rgba(243, 240, 240, 0.911);
 }
 .text-orange{
     color: #FA804C;
-    
+
 }
